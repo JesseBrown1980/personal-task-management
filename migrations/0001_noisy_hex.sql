@@ -1,0 +1,1 @@
+ALTER TABLE `tasks` ADD `priority` text DEFAULT 'low' NOT NULL;
